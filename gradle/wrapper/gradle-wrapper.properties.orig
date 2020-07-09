@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+#Mon Dec 10 09:12:32 GMT 2018
+=======
+#Mon Dec 10 21:18:44 GMT 2018
+>>>>>>> danny
+distributionBase=GRADLE_USER_HOME
+distributionPath=wrapper/dists
+zipStoreBase=GRADLE_USER_HOME
+zipStorePath=wrapper/dists
+<<<<<<< HEAD
+distributionUrl=https\://services.gradle.org/distributions/gradle-4.4-all.zip
+=======
+distributionUrl=https\://services.gradle.org/distributions/gradle-4.6-all.zip
+>>>>>>> danny

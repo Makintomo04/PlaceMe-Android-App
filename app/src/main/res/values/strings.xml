@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Group 15 Preferances</string>
+
+    <string-array name="Course">
+        <item>All courses</item>
+        <item>Accounting</item>
+        <item>Business</item>
+        <item>Construction</item>
+        <item>Finance</item>
+        <item>HR</item>
+        <item>Humanities</item>
+        <item>IT</item>
+        <item>Legal</item>
+        <item>Media</item>
+        <item>Politics</item>
+        <item>Sciences</item>
+        <item>Travel and Tourism</item>
+    </string-array>
+    <string name="title_activity_placement_description">PlacementDescription</string>
+</resources>
